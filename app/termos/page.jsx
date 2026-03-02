@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Termos() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-[#e1f2ed] font-sans dark:bg-black">
